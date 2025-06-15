@@ -1,10 +1,7 @@
 # modellayereditor
 
-Model Layer Editor Tool
-Provides comprehensive functionality for manipulating transformer models including
+Model Layer Editor Tool Provides comprehensive functionality for manipulating transformer models including
 layer replacement, analysis, visualization, and validation.
-"""
-
 
 
 Features:
